@@ -1,0 +1,25 @@
+Partlist exported from C:/Users/Adulfo/Desktop/PCB_Design/Aquarium_PCB.sch at 12/11/2018 10:24 PM
+
+Part  Value             Device            Package             Description               MF    MPN OC_FARNELL OC_NEWARK
+C1                      C_C0603           C0603               Capacitor SMD.                                          
+D1    1N4004            1N4004            DO41-10             DIODE                                                   
+D2    LTST-C191TBKT     LTST-C191TBKT     LED                                                                         
+FUD1  FIDUCIAL          FIDUCIAL          FIDUCIAL_40MIL                                                              
+FUD2  FIDUCIAL          FIDUCIAL          FIDUCIAL_40MIL                                                              
+FUD3  FIDUCIAL          FIDUCIAL          FIDUCIAL_40MIL                                                              
+J5    DCJ0202           DCJ0202           DCJ0202             DC POWER JACK                       unknown    unknown  
+MOTOR BM03B-AUHKS-GA-TB BM03B-AUHKS-GA-TB AUXILIARY_CONNECTOR                                                         
+R1    2.2K              R_R0603           R0603               RESISTOR, American symbol                               
+R2    2.2K              R_R0603           R0603               RESISTOR, American symbol                               
+R3    2.2K              R_R0603           R0603               RESISTOR, American symbol                               
+R4    4.7K              R_R0603           R0603               RESISTOR, American symbol                               
+R5    4.7K              R_R0603           R0603               RESISTOR, American symbol                               
+R6    2.2K              R_R0603           R0603               RESISTOR, American symbol                               
+SW1   PUSH_BUTTON       PUSH_BUTTON       BUTTON_12.5MM                                                               
+SW_1  22-27-2031-03     22-27-2031-03     6410-03             CONNECTOR                 MOLEX     unknown    unknown  
+SW_2  22-27-2031-03     22-27-2031-03     6410-03             CONNECTOR                 MOLEX     unknown    unknown  
+SW_3  22-27-2031-03     22-27-2031-03     6410-03             CONNECTOR                 MOLEX     unknown    unknown  
+T1    BC848             BC848             SOT23               NPN TRANSISTOR                                          
+TEMP  BM03B-AUHKS-GA-TB BM03B-AUHKS-GA-TB AUXILIARY_CONNECTOR                                                         
+U1    POCKETBEAGLE      POCKETBEAGLE      POCKETBEAGLE                                                                
+ULTRA BM03B-AUHKS-GA-TB BM03B-AUHKS-GA-TB AUXILIARY_CONNECTOR                                                         
